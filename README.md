@@ -5,10 +5,10 @@
 ```mermaid
 flowchart TB
 classDef borderless stroke-width:0px
-classDef darkBlue fill:#00008B
-classDef brightBlue fill:#6082B6
-classDef gray fill:#62524F
-classDef gray2 fill:#4F625B
+classDef darkBlue fill:#00008B, color:#fff
+classDef brightBlue fill:#6082B6, color:#fff
+classDef gray fill:#62524F, color:#fff
+classDef gray2 fill:#4F625B, color:#fff
 
 subgraph publicUser[ ]
     A1[[Public User<br/> Via REST API]]

@@ -5,7 +5,7 @@ flowchart TB
 classDef borderless stroke-width:0px
 classDef darkBlue fill:#00008B
 classDef brightBlue fill:#6082B6
-classDef gray fill:#62524F
+classDef gray fill:#62524F, color:#fff
 classDef gray2 fill:#4F625B
 
 subgraph authorizedUser[ ]

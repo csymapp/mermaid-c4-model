@@ -64,5 +64,5 @@ booksSystem--Accesses publisher details using-->publisher2System
 
 class A1,A2,A3,A4,A5,A6,B1,B2,B3,B4,B5,B6 borderless
 
-click A3 "containerDiagram.md" "booksSystem"
+click A3 "/csymapp/mermaid-c4-model/blob/master/containerDiagram.md" "booksSystem"
 ```

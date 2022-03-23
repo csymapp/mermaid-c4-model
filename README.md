@@ -2,6 +2,8 @@
 
 ## Context Diagram for Book Store System
 
+Design referenced from [Book Store System](https://gitlab.com/MarioCarrion/blog-examples/-/tree/main/2020/12/30)
+
 ```mermaid
 flowchart TB
 classDef borderless stroke-width:0px
